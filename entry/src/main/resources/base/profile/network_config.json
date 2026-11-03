@@ -1,0 +1,30 @@
+{
+  "network-security-config": {
+    "base-config": {
+      "cleartextTrafficPermitted": true
+    },
+    "domain-config": [
+      {
+        "domains": [
+          {
+            "include-subdomains": true,
+            "name": "strm112.1.fm"
+          },
+          {
+            "include-subdomains": true,
+            "name": "cassini.shoutca.st"
+          },
+          {
+            "include-subdomains": true,
+            "name": "kvcu.streamguys1.com"
+          }
+        ],
+        "cleartextTrafficPermitted": true
+      }
+    ],
+    "component-config": {
+      "Network Kit": true,
+      "Media Kit": true
+    }
+  }
+}

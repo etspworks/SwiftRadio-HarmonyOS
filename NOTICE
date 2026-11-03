@@ -1,0 +1,38 @@
+Swift Radio for HarmonyOS
+=========================
+
+This project is an unofficial HarmonyOS (ArkTS / ArkUI) port of Swift Radio,
+the open-source radio station app for iOS by Matthew Fecher, Fethi El Hassasna
+and the Swift Radio contributors.
+
+Upstream project: https://github.com/analogcode/Swift-Radio-Pro
+Upstream release this port is based on: v3.1.0
+
+The upstream software is distributed under the MIT License, reproduced in the
+LICENSE file at the root of this repository:
+
+    Copyright (c) 2015 Matthew Fecher
+
+This port reuses upstream source logic, strings, resources and artwork. All of it
+remains under that MIT License. Modifications made for the HarmonyOS platform are
+released under the same terms.
+
+This port is NOT affiliated with, endorsed by, or supported by the Swift Radio
+authors. Please do not report problems with this port to the upstream project.
+The name "Swift Radio" and the Swift Radio app icon belong to their respective
+owners; the MIT License covers the source code, not that name or that artwork.
+
+
+Radio stations
+--------------
+
+The example station list in entry/src/main/resources/rawfile/stations.json and
+the station logos in entry/src/main/resources/base/media/ are carried over from
+upstream Swift Radio. Station names, logos and streams belong to their
+broadcasters and are not covered by the MIT License:
+
+* Absolute Country Hits (station_absolutecountry.jpg)
+* AZ Rock Radio (az_rock_radio.png)
+* The Rock FM (station_therockfm.png)
+* Choice Classic Rock (logo loaded from choiceclassicrock.com, as upstream does)
+* Radio 1190 (station_radio1190.png)

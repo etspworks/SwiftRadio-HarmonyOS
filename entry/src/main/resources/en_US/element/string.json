@@ -1,0 +1,248 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Swift Radio - internet radio player"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Swift Radio"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Swift Radio"
+    },
+    {
+      "name": "about_feedback_message",
+      "value": "We value your input! Please take a moment to provide feedback"
+    },
+    {
+      "name": "about_feedback_title",
+      "value": "Feedback"
+    },
+    {
+      "name": "about_copyright",
+      "value": "Copyright"
+    },
+    {
+      "name": "about_footerAuthors",
+      "value": "Fethi El Hassasna & Matt Fecher"
+    },
+    {
+      "name": "about_footerCopyright",
+      "value": "Swift Radio"
+    },
+    {
+      "name": "about_items_appVersion",
+      "value": "App Version"
+    },
+    {
+      "name": "about_items_contributors",
+      "value": "Contributors"
+    },
+    {
+      "name": "about_items_email",
+      "value": "Email"
+    },
+    {
+      "name": "about_items_reportIssue",
+      "value": "Report an Issue"
+    },
+    {
+      "name": "about_reportIssue_message",
+      "value": "Found a problem in this HarmonyOS port? Tell us on GitHub."
+    },
+    {
+      "name": "about_items_features",
+      "value": "Features"
+    },
+    {
+      "name": "about_items_libraries",
+      "value": "Open Source Libraries"
+    },
+    {
+      "name": "about_items_rateApp",
+      "value": "Rate the App"
+    },
+    {
+      "name": "about_rateApp_unavailable",
+      "value": "Rating will be available once the app is published. Thank you for your support!"
+    },
+    {
+      "name": "about_items_shareApp",
+      "value": "Share the App"
+    },
+    {
+      "name": "about_items_specialThanks",
+      "value": "Special Thanks"
+    },
+    {
+      "name": "about_headerText",
+      "value": "**Swift Radio** for HarmonyOS is an unofficial, open-source port of the Swift Radio app, rebuilt natively in **ArkTS** and **ArkUI**. It provides robust, professional functionality out of the box, making it the perfect foundation for **building** or **customizing** your own streaming radio experience."
+    },
+    {
+      "name": "about_license_detail",
+      "value": "MIT License"
+    },
+    {
+      "name": "about_license_title",
+      "value": "License"
+    },
+    {
+      "name": "about_sections_contact",
+      "value": "Contact"
+    },
+    {
+      "name": "about_sections_credits",
+      "value": "Credits"
+    },
+    {
+      "name": "about_sections_features",
+      "value": "Features"
+    },
+    {
+      "name": "about_sections_legal",
+      "value": "Legal"
+    },
+    {
+      "name": "about_sections_support",
+      "value": "Support"
+    },
+    {
+      "name": "about_sections_version",
+      "value": "Version"
+    },
+    {
+      "name": "about_shareText",
+      "value": "Check out Swift Radio!"
+    },
+    {
+      "name": "about_title",
+      "value": "About Swift Radio"
+    },
+    {
+      "name": "bottomSheet_aboutStation",
+      "value": "About Station"
+    },
+    {
+      "name": "bottomSheet_shareNowPlaying",
+      "value": "Share Now Playing"
+    },
+    {
+      "name": "bottomSheet_stationWebsite",
+      "value": "Station Website"
+    },
+    {
+      "name": "common_couldNotSendEmail",
+      "value": "Could Not Send Email"
+    },
+    {
+      "name": "common_commitsFormat",
+      "value": "%d commits"
+    },
+    {
+      "name": "common_emailErrorMessage",
+      "value": "Your device could not send e-mail.  Please check e-mail configuration and try again."
+    },
+    {
+      "name": "common_noDescription",
+      "value": "No description"
+    },
+    {
+      "name": "common_ok",
+      "value": "OK"
+    },
+    {
+      "name": "contributors_title",
+      "value": "Contributors"
+    },
+    {
+      "name": "features_albumArt_description",
+      "value": "Displays track information and album covers to enhance the listening experience."
+    },
+    {
+      "name": "features_albumArt_title",
+      "value": "Album Art & Metadata"
+    },
+    {
+      "name": "features_customizableUI_description",
+      "value": "Includes a flexible interface that you can easily personalize with your own theme and branding."
+    },
+    {
+      "name": "features_customizableUI_title",
+      "value": "Customizable UI"
+    },
+    {
+      "name": "features_easySetup_description",
+      "value": "Ready to run right out of the box, and you can adjust key settings in a single configuration file."
+    },
+    {
+      "name": "features_easySetup_title",
+      "value": "Easy Project Setup"
+    },
+    {
+      "name": "features_lockScreen_description",
+      "value": "Shows artwork and track info on the lock screen, and provides convenient controls without opening the app."
+    },
+    {
+      "name": "features_lockScreen_title",
+      "value": "Lock Screen & Control Panel Integration"
+    },
+    {
+      "name": "features_multipleStations_description",
+      "value": "Comes with a straightforward station list manager that supports multiple streaming URLs."
+    },
+    {
+      "name": "features_multipleStations_title",
+      "value": "Multiple Stations Setup"
+    },
+    {
+      "name": "features_arktsCodebase_description",
+      "value": "Entirely written in ArkTS and ArkUI with a clean and modern structure."
+    },
+    {
+      "name": "features_arktsCodebase_title",
+      "value": "ArkTS Codebase"
+    },
+    {
+      "name": "features_title",
+      "value": "Features"
+    },
+    {
+      "name": "libraries_title",
+      "value": "Libraries"
+    },
+    {
+      "name": "loader_errorTitle",
+      "value": "Something went wrong!"
+    },
+    {
+      "name": "loader_retryButton",
+      "value": "Try again"
+    },
+    {
+      "name": "player_liveBadge",
+      "value": "LIVE"
+    },
+    {
+      "name": "stationDetail_defaultDescription",
+      "value": "You are listening to Swift Radio. This is a sweet open source project. Tell your friends, swiftly!"
+    },
+    {
+      "name": "stationDetail_title",
+      "value": "About Station"
+    },
+    {
+      "name": "stationDetail_visitWebsite",
+      "value": "Visit the official station page"
+    },
+    {
+      "name": "stations_loadingMessage",
+      "value": "Loading Stations..."
+    },
+    {
+      "name": "stations_title",
+      "value": "Swift Radio"
+    }
+  ]
+}

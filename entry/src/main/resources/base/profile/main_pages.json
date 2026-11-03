@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/LoaderSplashStationsFetchPage",
+    "pages/StationsListPage",
+    "pages/ContributorsPage",
+    "pages/FeaturesPage",
+    "pages/OpenSourceLibrariesPage",
+    "pages/AboutStationStationDetailPage",
+    "pages/InAppBrowserPage"
+  ]
+}
